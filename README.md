@@ -1,3 +1,7 @@
+# My design
+[AdaBoost算法](https://blog.csdn.net/fuqiuai/article/details/79482487)
+
+
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
 
