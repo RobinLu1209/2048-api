@@ -1,6 +1,5 @@
 # My design
-[AdaBoost算法](https://blog.csdn.net/fuqiuai/article/details/79482487)
-
+   在agent_voting.py中预先加载好三个子模型，然后执行evaluate_voting.py即可得到50次2048游戏运行的结果。在evaluate_voting.py中可以设置游戏的局数。
 
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
