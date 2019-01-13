@@ -1,6 +1,7 @@
 # My design
    在agent_voting.py中预先加载好三个子模型，然后执行evaluate_voting.py即可得到50次2048游戏运行的结果。在evaluate_voting.py中可以设置游戏的局数。
-
+   由于网络模型较大，所以上传到了百度云盘：https://pan.baidu.com/s/1OQ7c5grHWLfhyrF-UfCUZg
+   为了保护隐私性，链接有效期仅7天，如果链接过期但有需要可以github联系我。
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
 
